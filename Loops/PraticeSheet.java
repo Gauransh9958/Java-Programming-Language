@@ -2,8 +2,7 @@ import java.util.*;
 public class PraticeSheet{
 public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
-
-// Ques-1  
+// Ques-1
 
 // Ans-1 : The Answer for  ques 1 is 2 times.
 
